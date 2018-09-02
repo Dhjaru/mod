@@ -1,0 +1,963 @@
+#Sphere of Influence
+
+	ADE=
+	{
+		value=0
+		level=2
+	}
+	ALS=
+	{
+		value=0
+		level=2
+	}
+	AND=
+	{
+		value=-4
+		level=2
+	}
+	ANN=
+	{
+		value=73
+		level=5
+	}
+	ANU=
+	{
+		value=0
+		level=2
+	}
+	ANZ=
+	{
+		value=0
+		level=2
+	}
+	ARL=
+	{
+		value=0
+		level=2
+	}
+	ARW=
+	{
+		value=0
+		level=2
+	}
+	ASK=
+	{
+		value=0
+		level=2
+	}
+	AUG=
+	{
+		value=0
+		level=2
+	}
+	AUS=
+	{
+		value=0
+		level=2
+	}
+	BAV=
+	{
+		value=0
+		level=2
+	}
+	BNG=
+	{
+		value=0
+		level=2
+	}
+	BOH=
+	{
+		value=0
+		level=2
+	}
+	BOS=
+	{
+		value=0
+		level=2
+	}
+	BRD=
+	{
+		value=0
+		level=2
+	}
+	BRT=
+	{
+		value=97
+		level=5
+	}
+	BRU=
+	{
+		value=0
+		level=2
+	}
+	BTL=
+	{
+		value=0
+		level=2
+	}
+	BTU=
+	{
+		value=0
+		level=2
+	}
+	BUL=
+	{
+		value=0
+		level=2
+	}
+	BUR=
+	{
+		value=79
+		level=5
+	}
+	BYZ=
+	{
+		value=0
+		level=2
+	}
+	CAB=
+	{
+		value=0
+		level=2
+	}
+	CAM=
+	{
+		value=134
+		level=5
+	}
+	CDL=
+	{
+		value=133
+		level=5
+	}
+	CEB=
+	{
+		value=0
+		level=2
+	}
+	CHG=
+	{
+		value=85
+		level=5
+	}
+	CHM=
+	{
+		value=0
+		level=2
+	}
+	CHU=
+	{
+		value=0
+		level=2
+	}
+	CHV=
+	{
+		value=0
+		level=2
+	}
+	CJA=
+	{
+		value=0
+		level=2
+	}
+	CSU=
+	{
+		value=0
+		level=2
+	}
+	DAI=
+	{
+		value=62
+		level=5
+	}
+	DAR=
+	{
+		value=0
+		level=2
+	}
+	DEN=
+	{
+		value=0
+		level=2
+	}
+	DLH=
+	{
+		value=0
+		level=2
+	}
+	DTT=
+	{
+		value=0
+		level=2
+	}
+	DUL=
+	{
+		value=0
+		level=2
+	}
+	D_ESFAHAN=
+	{
+		value=0
+		level=2
+	}
+	EGY=
+	{
+		value=0
+		level=2
+	}
+	ENG=
+	{
+		value=0
+		level=2
+	}
+	ETH=
+	{
+		value=0
+		level=2
+	}
+	FER=
+	{
+		value=0
+		level=2
+	}
+	FRA=
+	{
+		value=0
+		level=2
+	}
+	FRM=
+	{
+		value=0
+		level=2
+	}
+	GAZ=
+	{
+		value=0
+		level=2
+	}
+	GEO=
+	{
+		value=0
+		level=2
+	}
+	GNA=
+	{
+		value=0
+		level=2
+	}
+	HAM=
+	{
+		value=0
+		level=2
+	}
+	HDJ=
+	{
+		value=0
+		level=2
+	}
+	HES=
+	{
+		value=0
+		level=2
+	}
+	HOD=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=-63
+		level=2
+	}
+	JNN=
+	{
+		value=0
+		level=2
+	}
+	KAF=
+	{
+		value=0
+		level=2
+	}
+	KAR=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=85
+		level=5
+	}
+	KIO=
+	{
+		value=0
+		level=2
+	}
+	KLE=
+	{
+		value=0
+		level=2
+	}
+	KNI=
+	{
+		value=0
+		level=2
+	}
+	KON=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=114
+		level=5
+	}
+	KRC=
+	{
+		value=155
+		level=5
+	}
+	KTS=
+	{
+		value=0
+		level=2
+	}
+	KZH=
+	{
+		value=91
+		level=5
+	}
+	LAU=
+	{
+		value=0
+		level=2
+	}
+	LNA=
+	{
+		value=169
+		level=5
+	}
+	LOM=
+	{
+		value=0
+		level=2
+	}
+	LOR=
+	{
+		value=0
+		level=2
+	}
+	MAG=
+	{
+		value=0
+		level=2
+	}
+	MAL=
+	{
+		value=0
+		level=2
+	}
+	MCA=
+	{
+		value=0
+		level=2
+	}
+	MEC=
+	{
+		value=0
+		level=2
+	}
+	MED=
+	{
+		value=0
+		level=2
+	}
+	MEW=
+	{
+		value=0
+		level=2
+	}
+	MGD=
+	{
+		value=0
+		level=2
+	}
+	MIR=
+	{
+		value=0
+		level=2
+	}
+	MKA=
+	{
+		value=0
+		level=2
+	}
+	MLC=
+	{
+		value=82
+		level=2
+	}
+	MNA=
+	{
+		value=0
+		level=2
+	}
+	MNG=
+	{
+		value=0
+		level=2
+	}
+	MPC=
+	{
+		value=0
+		level=2
+	}
+	MPH=
+	{
+		value=79
+		level=5
+	}
+	MUN=
+	{
+		value=0
+		level=2
+	}
+	MYR=
+	{
+		value=0
+		level=2
+	}
+	NEP=
+	{
+		value=79
+		level=5
+	}
+	NET=
+	{
+		value=0
+		level=2
+	}
+	NOG=
+	{
+		value=0
+		level=2
+	}
+	NUM=
+	{
+		value=0
+		level=2
+	}
+	NUP=
+	{
+		value=0
+		level=2
+	}
+	OIR=
+	{
+		value=88
+		level=5
+	}
+	OLD=
+	{
+		value=0
+		level=2
+	}
+	ORI=
+	{
+		value=0
+		level=2
+	}
+	ORM=
+	{
+		value=0
+		level=2
+	}
+	PAP=
+	{
+		value=0
+		level=2
+	}
+	PGS=
+	{
+		value=161
+		level=5
+	}
+	POM=
+	{
+		value=0
+		level=2
+	}
+	POR=
+	{
+		value=0
+		level=2
+	}
+	PRM=
+	{
+		value=0
+		level=2
+	}
+	PRU=
+	{
+		value=0
+		level=2
+	}
+	PTE=
+	{
+		value=0
+		level=2
+	}
+	PTG=
+	{
+		value=0
+		level=2
+	}
+	RAJ=
+	{
+		value=0
+		level=2
+	}
+	RUS=
+	{
+		value=0
+		level=2
+	}
+	RYU=
+	{
+		value=69
+		level=5
+	}
+	SAV=
+	{
+		value=0
+		level=2
+	}
+	SER=
+	{
+		value=0
+		level=2
+	}
+	SIE=
+	{
+		value=0
+		level=2
+	}
+	SIL=
+	{
+		value=0
+		level=2
+	}
+	SLV=
+	{
+		value=0
+		level=2
+	}
+	SON=
+	{
+		value=0
+		level=2
+	}
+	SPA=
+	{
+		value=0
+		level=2
+	}
+	SUL=
+	{
+		value=0
+		level=2
+	}
+	SWA=
+	{
+		value=0
+		level=2
+	}
+	SWE=
+	{
+		value=0
+		level=2
+	}
+	SYR=
+	{
+		value=0
+		level=2
+	}
+	TBK=
+	{
+		value=0
+		level=2
+	}
+	TBZ=
+	{
+		value=0
+		level=2
+	}
+	TDO=
+	{
+		value=222
+		level=5
+	}
+	TID=
+	{
+		value=0
+		level=2
+	}
+	TIM=
+	{
+		value=0
+		level=2
+	}
+	TNT=
+	{
+		value=0
+		level=2
+	}
+	TPA=
+	{
+		value=0
+		level=2
+	}
+	TPR=
+	{
+		value=30
+		level=5
+	}
+	TRS=
+	{
+		value=0
+		level=2
+	}
+	TUA=
+	{
+		value=0
+		level=2
+	}
+	TUN=
+	{
+		value=0
+		level=2
+	}
+	TUR=
+	{
+		value=0
+		level=2
+	}
+	TUS=
+	{
+		value=0
+		level=2
+	}
+	UTS=
+	{
+		value=97
+		level=5
+	}
+	VEN=
+	{
+		value=0
+		level=2
+	}
+	VIJ=
+	{
+		value=0
+		level=2
+	}
+	WBG=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X04=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X07=
+	{
+		value=0
+		level=2
+	}
+	X10=
+	{
+		value=0
+		level=2
+	}
+	X12=
+	{
+		value=0
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	YAO=
+	{
+		value=0
+		level=2
+	}
+	YEM=
+	{
+		value=0
+		level=2
+	}
+	YRK=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="18th Army"
+	location=1583
+	regiment = {
+		name="1st Luzhou Infantry"
+		type=infantry
+		home=1474
+	}
+	regiment = {
+		name="6th Luzhou Infantry"
+		type=infantry
+		home=1474
+	}
+}
+
+army = {
+	name="19th Army"
+	location=1491
+	regiment = {
+		name="2nd Luzhou Infantry"
+		type=infantry
+		home=1474
+	}
+	regiment = {
+		name="5th Luzhou Infantry"
+		type=infantry
+		home=1474
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1550
+	regiment = {
+		name="1st Chizhou Artillery"
+		type=artillery
+		home=1471
+	}
+}
+
+army = {
+	name="13th Army"
+	location=1542
+	regiment = {
+		name="1st Taicangzhou Infantry"
+		type=infantry
+		home=1540
+	}
+	regiment = {
+		name="1st Ningbo Infantry"
+		type=infantry
+		home=1608
+	}
+	regiment = {
+		name="1st Chizhou Infantry"
+		type=infantry
+		home=1471
+	}
+	regiment = {
+		name="1st Puer Infantry"
+		type=infantry
+		home=1603
+	}
+	regiment = {
+		name="1st Jiading Cavalry"
+		type=cavalry
+		home=1580
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1499
+	regiment = {
+		name="3rd Luzhou Infantry"
+		type=infantry
+		home=1474
+	}
+	regiment = {
+		name="1st Tongzhou Infantry"
+		type=infantry
+		home=1541
+	}
+	regiment = {
+		name="1st Mukden Infantry"
+		type=infantry
+		home=1479
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1612
+	regiment = {
+		name="4th Luzhou Infantry"
+		type=infantry
+		home=1474
+	}
+	regiment = {
+		name="1st Luzhou Cavalry"
+		type=cavalry
+		home=1474
+	}
+	regiment = {
+		name="1st Anqing Artillery"
+		type=artillery
+		home=1470
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1598
+	regiment = {
+		name="1st Jianning Infantry"
+		type=infantry
+		home=1483
+	}
+	regiment = {
+		name="1st Shanghai Infantry"
+		type=infantry
+		home=1538
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1496
+	ship = {
+		name="1st Zhaoqing Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Canton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Yangzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tangshan Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1616
+	ship = {
+		name="1st Hainan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Zhaoqing Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kyoto Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Zhaoqing Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Zhaoqing Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hong Kong Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Zhaoqing Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Canton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tangshan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tangshan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Zhaoqing Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Tangshan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Tangshan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Qingzhou Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Yangzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Tangshan Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2827
+	ship = {
+		name="1st Hainan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Zhaoqing Frigate"
+		type=frigate
+	}
+}
+

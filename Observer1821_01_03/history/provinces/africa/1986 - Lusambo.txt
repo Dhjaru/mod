@@ -1,0 +1,7 @@
+owner=KON
+controller=KON
+add_core=LND
+add_core=KON
+add_core=KUB
+trade_goods = tropical_wood
+life_rating = 15

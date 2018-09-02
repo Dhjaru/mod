@@ -1,0 +1,14 @@
+owner=SAV
+controller=SAV
+add_core=SWI
+add_core=SAV
+add_core=HRE
+trade_goods = fruit
+life_rating = 35
+fort = 1
+state_building=
+{
+	level=1
+	building = steel_factory
+	upgrade = yes
+}

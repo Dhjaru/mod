@@ -1,0 +1,51 @@
+203 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=675
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=2701
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=439
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=68
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=74
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=567
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size=62998
+	}
+
+}

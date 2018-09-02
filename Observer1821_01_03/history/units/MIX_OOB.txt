@@ -1,0 +1,96 @@
+#Sphere of Influence
+
+	APA=
+	{
+		value=0
+		level=2
+	}
+	AZT=
+	{
+		value=145
+		level=2
+	}
+	CMA=
+	{
+		value=-19
+		level=2
+	}
+	COC=
+	{
+		value=20
+		level=2
+	}
+	GNA=
+	{
+		value=-12
+		level=2
+	}
+	MIX=
+	{
+		value=0
+		level=2
+	}
+	SPA=
+	{
+		value=-10
+		level=2
+	}
+	TAR=
+	{
+		value=-16
+		level=2
+	}
+	TLA=
+	{
+		value=-16
+		level=2
+	}
+	TLX=
+	{
+		value=-4
+		level=2
+	}
+	TOT=
+	{
+		value=26
+		level=2
+	}
+	X02=
+	{
+		value=-11
+		level=2
+	}
+	X03=
+	{
+		value=-11
+		level=2
+	}
+	X06=
+	{
+		value=-11
+		level=2
+	}
+	X08=
+	{
+		value=-11
+		level=2
+	}
+	ZAP=
+	{
+		value=-24
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="1st Army"
+	location=2177
+	regiment = {
+		name="1st Oaxaca Infantry"
+		type=infantry
+		home=2177
+	}
+}
+

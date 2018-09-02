@@ -1,0 +1,13 @@
+owner=LAU
+controller=LAU
+add_core=LAU
+add_core=GER
+add_core=HRE
+trade_goods = fruit
+life_rating = 40
+state_building=
+{
+	level=1
+	building = glass_factory
+	upgrade = yes
+}

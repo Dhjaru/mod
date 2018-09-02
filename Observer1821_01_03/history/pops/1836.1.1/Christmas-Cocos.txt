@@ -1,0 +1,60 @@
+2244 = {
+	farmers=
+	{
+		culture = malay
+		religion = sunni
+		size=15
+	}
+
+}
+2406 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size=312
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size=1868
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size=303
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=47
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size=37
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=392
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size=28195
+	}
+
+}

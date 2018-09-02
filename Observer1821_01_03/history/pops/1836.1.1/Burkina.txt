@@ -1,0 +1,348 @@
+1901 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size=25002
+	}
+
+	soldiers=
+	{
+		culture = mossi
+		religion = sunni
+		size=860
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = sunni
+		size=3441
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = sunni
+		size=559
+	}
+
+	bureaucrats=
+	{
+		culture = mossi
+		religion = sunni
+		size=43
+	}
+
+	officers=
+	{
+		culture = mossi
+		religion = sunni
+		size=69
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = sunni
+		size=723
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = sunni
+		size=55328
+	}
+
+}
+1902 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size=13476
+	}
+
+	soldiers=
+	{
+		culture = mossi
+		religion = sunni
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = sunni
+		size=2486
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = sunni
+		size=404
+	}
+
+	bureaucrats=
+	{
+		culture = mossi
+		religion = sunni
+		size=31
+	}
+
+	officers=
+	{
+		culture = mossi
+		religion = sunni
+		size=50
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = sunni
+		size=522
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = sunni
+		size=44138
+	}
+
+}
+1903 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size=5141
+	}
+
+	soldiers=
+	{
+		culture = mossi
+		religion = sunni
+		size=233
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = sunni
+		size=932
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = sunni
+		size=151
+	}
+
+	bureaucrats=
+	{
+		culture = mossi
+		religion = sunni
+		size=12
+	}
+
+	officers=
+	{
+		culture = mossi
+		religion = sunni
+		size=19
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = sunni
+		size=196
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = sunni
+		size=16623
+	}
+
+}
+1904 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size=5627
+	}
+
+	soldiers=
+	{
+		culture = mossi
+		religion = sunni
+		size=346
+	}
+
+	artisans=
+	{
+		culture = mossi
+		religion = sunni
+		size=1383
+	}
+
+	clergymen=
+	{
+		culture = mossi
+		religion = sunni
+		size=225
+	}
+
+	bureaucrats=
+	{
+		culture = mossi
+		religion = sunni
+		size=17
+	}
+
+	officers=
+	{
+		culture = mossi
+		religion = sunni
+		size=28
+	}
+
+	aristocrats=
+	{
+		culture = mossi
+		religion = sunni
+		size=290
+	}
+
+	farmers=
+	{
+		culture = mossi
+		religion = sunni
+		size=26653
+	}
+
+}
+1905 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size=10451
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = sunni
+		size=744
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = sunni
+		size=2977
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = sunni
+		size=484
+	}
+
+	bureaucrats=
+	{
+		culture = dyula
+		religion = sunni
+		size=37
+	}
+
+	officers=
+	{
+		culture = dyula
+		religion = sunni
+		size=60
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = sunni
+		size=625
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = sunni
+		size=59038
+	}
+
+}
+1906 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size=4504
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = sunni
+		size=339
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = sunni
+		size=1354
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = sunni
+		size=220
+	}
+
+	bureaucrats=
+	{
+		culture = dyula
+		religion = sunni
+		size=17
+	}
+
+	officers=
+	{
+		culture = dyula
+		religion = sunni
+		size=27
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = sunni
+		size=284
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = sunni
+		size=27117
+	}
+
+}

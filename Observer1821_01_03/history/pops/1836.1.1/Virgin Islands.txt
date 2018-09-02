@@ -1,0 +1,58 @@
+2223 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=114858
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=1263
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size=5054
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size=821
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size=215
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=101
+	}
+
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size=1061
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=2971
+	}
+
+}

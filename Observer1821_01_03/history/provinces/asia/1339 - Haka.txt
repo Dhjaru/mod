@@ -1,0 +1,7 @@
+owner=LNA
+controller=LNA
+add_core=MLB
+add_core=LNA
+add_core=HND
+trade_goods = tropical_wood
+life_rating = 35

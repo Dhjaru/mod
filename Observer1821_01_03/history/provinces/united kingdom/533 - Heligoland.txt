@@ -1,0 +1,14 @@
+owner=DTT
+controller=DTT
+add_core=DTT
+add_core=GER
+add_core=HRE
+trade_goods = fish
+life_rating = 35
+terrain = plains
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

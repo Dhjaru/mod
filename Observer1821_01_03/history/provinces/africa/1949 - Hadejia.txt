@@ -1,0 +1,6 @@
+owner=KTS
+controller=KTS
+add_core=KBO
+add_core=KTS
+trade_goods = coal
+life_rating = 35

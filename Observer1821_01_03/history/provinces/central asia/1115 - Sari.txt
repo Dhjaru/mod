@@ -1,0 +1,7 @@
+owner=TRS
+controller=TRS
+add_core=TAB
+add_core=TRS
+add_core=PER
+trade_goods = wool
+life_rating = 35

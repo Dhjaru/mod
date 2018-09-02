@@ -1,0 +1,7 @@
+owner=FRA
+controller=FRA
+add_core=CUA
+add_core=X04
+add_core=FRA
+trade_goods = cattle
+life_rating = 35

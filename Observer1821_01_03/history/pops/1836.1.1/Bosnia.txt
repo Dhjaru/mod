@@ -1,0 +1,371 @@
+783 = {
+	soldiers=
+	{
+		culture = serb
+		religion = protestant
+		size=1759
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = protestant
+		size=6259
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = protestant
+		size=1241
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = protestant
+		size=176
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = protestant
+		size=141
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = protestant
+		size=1477
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = protestant
+		size=164006
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=25
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=775
+	}
+
+}
+784 = {
+	soldiers=
+	{
+		culture = croat
+		religion = protestant
+		size=668
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = protestant
+		size=2673
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = protestant
+		size=481
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = protestant
+		size=67
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = protestant
+		size=53
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = protestant
+		size=561
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = protestant
+		size=62326
+	}
+
+}
+785 = {
+	soldiers=
+	{
+		culture = croat
+		religion = protestant
+		size=668
+	}
+
+	artisans=
+	{
+		culture = croat
+		religion = protestant
+		size=2673
+	}
+
+	clergymen=
+	{
+		culture = croat
+		religion = protestant
+		size=481
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = protestant
+		size=67
+	}
+
+	officers=
+	{
+		culture = croat
+		religion = protestant
+		size=53
+	}
+
+	aristocrats=
+	{
+		culture = croat
+		religion = protestant
+		size=561
+	}
+
+	farmers=
+	{
+		culture = croat
+		religion = protestant
+		size=62326
+	}
+
+}
+786 = {
+	soldiers=
+	{
+		culture = serb
+		religion = protestant
+		size=2069
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = protestant
+		size=8275
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = protestant
+		size=1489
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = protestant
+		size=207
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = protestant
+		size=165
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = protestant
+		size=1738
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = protestant
+		size=192925
+	}
+
+}
+787 = {
+	soldiers=
+	{
+		culture = serb
+		religion = protestant
+		size=1759
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = protestant
+		size=7034
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = protestant
+		size=1266
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = protestant
+		size=176
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = protestant
+		size=141
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = protestant
+		size=1477
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = protestant
+		size=164006
+	}
+
+}
+788 = {
+	soldiers=
+	{
+		culture = serb
+		religion = protestant
+		size=4133
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = protestant
+		size=4653
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = protestant
+		size=837
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = protestant
+		size=116
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = protestant
+		size=93
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = protestant
+		size=977
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = protestant
+		size=105510
+	}
+
+}
+789 = {
+	soldiers=
+	{
+		culture = serb
+		religion = catholic
+		size=2000
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = catholic
+		size=8001
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = catholic
+		size=1440
+	}
+
+	bureaucrats=
+	{
+		culture = serb
+		religion = catholic
+		size=200
+	}
+
+	officers=
+	{
+		culture = serb
+		religion = catholic
+		size=160
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = catholic
+		size=1680
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = catholic
+		size=186547
+	}
+
+}

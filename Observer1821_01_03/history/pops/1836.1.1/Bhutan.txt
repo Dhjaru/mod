@@ -1,0 +1,51 @@
+1329 = {
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size=618
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size=2473
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size=445
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size=31
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size=49
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size=519
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size=57697
+	}
+
+}

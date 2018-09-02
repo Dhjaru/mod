@@ -1,0 +1,58 @@
+1954 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=53063
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=675
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size=2701
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size=439
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size=115
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=54
+	}
+
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size=567
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=9908
+	}
+
+}

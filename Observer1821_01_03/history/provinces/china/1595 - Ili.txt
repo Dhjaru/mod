@@ -1,0 +1,8 @@
+owner=CHG
+controller=CHG
+add_core=CHG
+add_core=KHA
+add_core=MGL
+add_core=XIN
+trade_goods = sulphur
+life_rating = 32

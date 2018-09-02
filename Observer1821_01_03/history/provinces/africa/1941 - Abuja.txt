@@ -1,0 +1,6 @@
+owner=SON
+controller=SON
+add_core=NUP
+add_core=SON
+trade_goods = cotton
+life_rating = 35

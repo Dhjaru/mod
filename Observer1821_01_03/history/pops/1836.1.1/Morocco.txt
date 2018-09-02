@@ -1,0 +1,1232 @@
+1680 = {
+	soldiers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=1514
+	}
+
+	artisans=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=4833
+	}
+
+	clergymen=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=959
+	}
+
+	bureaucrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=151
+	}
+
+	officers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=121
+	}
+
+	aristocrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=1272
+	}
+
+	farmers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=141338
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=25
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=1225
+	}
+
+}
+1681 = {
+	soldiers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=1341
+	}
+
+	artisans=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=5362
+	}
+
+	clergymen=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=871
+	}
+
+	bureaucrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=134
+	}
+
+	officers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=107
+	}
+
+	aristocrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=1126
+	}
+
+	farmers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=125111
+	}
+
+}
+1682 = {
+	soldiers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=1514
+	}
+
+	artisans=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=6058
+	}
+
+	clergymen=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=984
+	}
+
+	bureaucrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=151
+	}
+
+	officers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=121
+	}
+
+	aristocrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=1272
+	}
+
+	farmers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=141338
+	}
+
+}
+1683 = {
+	soldiers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=4133
+	}
+
+	artisans=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=13753
+	}
+
+	clergymen=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=2235
+	}
+
+	bureaucrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=344
+	}
+
+	officers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=275
+	}
+
+	aristocrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=2888
+	}
+
+	farmers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=320189
+	}
+
+}
+1684 = {
+	soldiers=
+	{
+		culture = berber
+		religion = catholic
+		size=1651
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = catholic
+		size=6605
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = catholic
+		size=1073
+	}
+
+	bureaucrats=
+	{
+		culture = berber
+		religion = catholic
+		size=165
+	}
+
+	officers=
+	{
+		culture = berber
+		religion = catholic
+		size=132
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = catholic
+		size=1387
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = catholic
+		size=154103
+	}
+
+}
+1685 = {
+	soldiers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=1341
+	}
+
+	artisans=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=5242
+	}
+
+	clergymen=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=866
+	}
+
+	bureaucrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=134
+	}
+
+	officers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=107
+	}
+
+	aristocrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=1126
+	}
+
+	farmers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=125111
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=5
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=120
+	}
+
+}
+2563 = {
+	soldiers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=1474
+	}
+
+	artisans=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=5894
+	}
+
+	clergymen=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=958
+	}
+
+	bureaucrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=147
+	}
+
+	officers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=118
+	}
+
+	aristocrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=1238
+	}
+
+	farmers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=137530
+	}
+
+}
+1686 = {
+	soldiers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=4133
+	}
+
+	artisans=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=8913
+	}
+
+	clergymen=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=1448
+	}
+
+	bureaucrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=223
+	}
+
+	officers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=178
+	}
+
+	aristocrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=1872
+	}
+
+	farmers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=206049
+	}
+
+}
+1687 = {
+	soldiers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=1810
+	}
+
+	artisans=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=7239
+	}
+
+	clergymen=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=1176
+	}
+
+	bureaucrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=181
+	}
+
+	officers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=145
+	}
+
+	aristocrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=1520
+	}
+
+	farmers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=168914
+	}
+
+}
+1688 = {
+	soldiers=
+	{
+		culture = berber
+		religion = catholic
+		size=908
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = catholic
+		size=3633
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = catholic
+		size=590
+	}
+
+	bureaucrats=
+	{
+		culture = berber
+		religion = catholic
+		size=91
+	}
+
+	officers=
+	{
+		culture = berber
+		religion = catholic
+		size=73
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = catholic
+		size=763
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = catholic
+		size=84755
+	}
+
+}
+1689 = {
+	soldiers=
+	{
+		culture = berber
+		religion = catholic
+		size=908
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = catholic
+		size=3633
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = catholic
+		size=590
+	}
+
+	bureaucrats=
+	{
+		culture = berber
+		religion = catholic
+		size=91
+	}
+
+	officers=
+	{
+		culture = berber
+		religion = catholic
+		size=73
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = catholic
+		size=763
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = catholic
+		size=84755
+	}
+
+}
+1690 = {
+	soldiers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=4531
+	}
+
+	artisans=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=17633
+	}
+
+	clergymen=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=2935
+	}
+
+	bureaucrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=453
+	}
+
+	officers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=362
+	}
+
+	aristocrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=3806
+	}
+
+	farmers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=422855
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=10
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=490
+	}
+
+}
+1691 = {
+	soldiers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=1081
+	}
+
+	artisans=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=4205
+	}
+
+	clergymen=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=698
+	}
+
+	bureaucrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=108
+	}
+
+	officers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=87
+	}
+
+	aristocrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=908
+	}
+
+	farmers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=100919
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=5
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=120
+	}
+
+}
+1692 = {
+	soldiers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=2387
+	}
+
+	artisans=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=9547
+	}
+
+	clergymen=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=1551
+	}
+
+	bureaucrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=239
+	}
+
+	officers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=191
+	}
+
+	aristocrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=2005
+	}
+
+	farmers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=222765
+	}
+
+}
+1693 = {
+	soldiers=
+	{
+		culture = berber
+		religion = catholic
+		size=1081
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = catholic
+		size=4325
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = catholic
+		size=703
+	}
+
+	bureaucrats=
+	{
+		culture = berber
+		religion = catholic
+		size=108
+	}
+
+	officers=
+	{
+		culture = berber
+		religion = catholic
+		size=87
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = catholic
+		size=908
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = catholic
+		size=100919
+	}
+
+}
+1694 = {
+	soldiers=
+	{
+		culture = berber
+		religion = catholic
+		size=2387
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = catholic
+		size=9547
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = catholic
+		size=1551
+	}
+
+	bureaucrats=
+	{
+		culture = berber
+		religion = catholic
+		size=239
+	}
+
+	officers=
+	{
+		culture = berber
+		religion = catholic
+		size=191
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = catholic
+		size=2005
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = catholic
+		size=222765
+	}
+
+}
+1695 = {
+	soldiers=
+	{
+		culture = berber
+		religion = catholic
+		size=579
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = catholic
+		size=2315
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = catholic
+		size=376
+	}
+
+	bureaucrats=
+	{
+		culture = berber
+		religion = catholic
+		size=58
+	}
+
+	officers=
+	{
+		culture = berber
+		religion = catholic
+		size=46
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = catholic
+		size=486
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = catholic
+		size=54016
+	}
+
+}
+1696 = {
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size=50
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size=75
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size=150
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size=75
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size=2650
+	}
+
+	aristocrats=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=15
+	}
+
+	clergymen=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=25
+	}
+
+	artisans=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=50
+	}
+
+	soldiers=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=25
+	}
+
+	farmers=
+	{
+		culture = maghrebi
+		religion = sunni
+		size=900
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = sunni
+		size=75
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = sunni
+		size=50
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = sunni
+		size=250
+	}
+
+	soldiers=
+	{
+		culture = berber
+		religion = sunni
+		size=50
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = sunni
+		size=4575
+	}
+
+}
+1697 = {
+	soldiers=
+	{
+		culture = berber
+		religion = catholic
+		size=994
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = catholic
+		size=3975
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = catholic
+		size=646
+	}
+
+	bureaucrats=
+	{
+		culture = berber
+		religion = catholic
+		size=99
+	}
+
+	officers=
+	{
+		culture = berber
+		religion = catholic
+		size=79
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = catholic
+		size=835
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = catholic
+		size=92743
+	}
+
+}
+1698 = {
+	soldiers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=4832
+	}
+
+	artisans=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=19330
+	}
+
+	clergymen=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=3141
+	}
+
+	bureaucrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=483
+	}
+
+	officers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=387
+	}
+
+	aristocrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=4059
+	}
+
+	farmers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=451010
+	}
+
+}
+1699 = {
+	soldiers=
+	{
+		culture = berber
+		religion = catholic
+		size=2140
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = catholic
+		size=8561
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = catholic
+		size=1391
+	}
+
+	bureaucrats=
+	{
+		culture = berber
+		religion = catholic
+		size=214
+	}
+
+	officers=
+	{
+		culture = berber
+		religion = catholic
+		size=171
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = catholic
+		size=1798
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = catholic
+		size=199755
+	}
+
+	soldiers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=895
+	}
+
+	artisans=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=3579
+	}
+
+	clergymen=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=582
+	}
+
+	bureaucrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=89
+	}
+
+	officers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=72
+	}
+
+	aristocrats=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=752
+	}
+
+	farmers=
+	{
+		culture = maghrebi
+		religion = catholic
+		size=83511
+	}
+
+}

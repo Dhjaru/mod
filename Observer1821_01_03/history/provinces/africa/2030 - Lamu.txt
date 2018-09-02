@@ -1,0 +1,5 @@
+owner=PTE
+controller=PTE
+add_core=PTE
+trade_goods = cattle
+life_rating = 35

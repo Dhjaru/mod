@@ -1,0 +1,6 @@
+owner=CJA
+controller=CJA
+add_core=QTO
+add_core=CJA
+trade_goods = fruit
+life_rating = 35

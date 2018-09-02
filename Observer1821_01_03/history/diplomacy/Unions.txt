@@ -1,0 +1,8 @@
+union=
+{
+	first="SER"
+	second="BYZ"
+	start_date="1454.2.4"
+	end_date="1936.1.1"
+}
+

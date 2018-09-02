@@ -1,0 +1,5 @@
+owner=TBK
+controller=TBK
+add_core=TBK
+trade_goods = grain
+life_rating = 35

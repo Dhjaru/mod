@@ -1,0 +1,1296 @@
+#Sphere of Influence
+
+	ABE=
+	{
+		value=82
+		level=2
+	}
+	ADE=
+	{
+		value=0
+		level=2
+	}
+	ALS=
+	{
+		value=94
+		level=2
+	}
+	AND=
+	{
+		value=-1
+		level=2
+	}
+	ANN=
+	{
+		value=0
+		level=2
+	}
+	ANS=
+	{
+		value=0
+		level=2
+	}
+	ANZ=
+	{
+		value=0
+		level=2
+	}
+	APA=
+	{
+		value=76
+		level=2
+	}
+	ARL=
+	{
+		value=0
+		level=2
+	}
+	ARP=
+	{
+		value=0
+		level=2
+	}
+	ARW=
+	{
+		value=16
+		level=2
+	}
+	ASI=
+	{
+		value=0
+		level=2
+	}
+	AUG=
+	{
+		value=79
+		level=2
+	}
+	AUS=
+	{
+		value=76
+		level=2
+	}
+	AZT=
+	{
+		value=50
+		level=2
+	}
+	BAV=
+	{
+		value=70
+		level=2
+	}
+	BLA=
+	{
+		value=0
+		level=2
+	}
+	BNG=
+	{
+		value=0
+		level=2
+	}
+	BOH=
+	{
+		value=19
+		level=2
+	}
+	BOS=
+	{
+		value=79
+		level=2
+	}
+	BRD=
+	{
+		value=85
+		level=2
+	}
+	BRG=
+	{
+		value=0
+		level=2
+	}
+	BRT=
+	{
+		value=0
+		level=2
+	}
+	BRU=
+	{
+		value=0
+		level=2
+	}
+	BTL=
+	{
+		value=0
+		level=2
+	}
+	BTU=
+	{
+		value=0
+		level=2
+	}
+	BUR=
+	{
+		value=0
+		level=2
+	}
+	BYZ=
+	{
+		value=0
+		level=2
+	}
+	CAB=
+	{
+		value=0
+		level=2
+	}
+	CAD=
+	{
+		value=76
+		level=2
+	}
+	CAM=
+	{
+		value=0
+		level=2
+	}
+	CDL=
+	{
+		value=0
+		level=2
+	}
+	CEB=
+	{
+		value=0
+		level=2
+	}
+	CHE=
+	{
+		value=76
+		level=2
+	}
+	CHG=
+	{
+		value=0
+		level=2
+	}
+	CHM=
+	{
+		value=0
+		level=2
+	}
+	CHN=
+	{
+		value=94
+		level=2
+	}
+	CHO=
+	{
+		value=84
+		level=2
+	}
+	CHV=
+	{
+		value=0
+		level=2
+	}
+	CHY=
+	{
+		value=0
+		level=2
+	}
+	CJA=
+	{
+		value=0
+		level=2
+	}
+	CMA=
+	{
+		value=-12
+		level=2
+	}
+	CNK=
+	{
+		value=0
+		level=2
+	}
+	COC=
+	{
+		value=-10
+		level=2
+	}
+	COM=
+	{
+		value=0
+		level=2
+	}
+	CSU=
+	{
+		value=0
+		level=2
+	}
+	DAI=
+	{
+		value=0
+		level=2
+	}
+	DAR=
+	{
+		value=0
+		level=2
+	}
+	DEN=
+	{
+		value=0
+		level=2
+	}
+	DLH=
+	{
+		value=0
+		level=2
+	}
+	DTT=
+	{
+		value=88
+		level=2
+	}
+	DUL=
+	{
+		value=0
+		level=2
+	}
+	D_ESFAHAN=
+	{
+		value=0
+		level=2
+	}
+	EGY=
+	{
+		value=0
+		level=2
+	}
+	ENG=
+	{
+		value=-31
+		level=3
+	}
+	ETH=
+	{
+		value=0
+		level=2
+	}
+	FER=
+	{
+		value=91
+		level=2
+	}
+	FIN=
+	{
+		value=-77
+		level=2
+	}
+	FOX=
+	{
+		value=0
+		level=2
+	}
+	FRA=
+	{
+		value=-26
+		level=2
+	}
+	FRM=
+	{
+		value=82
+		level=2
+	}
+	GAZ=
+	{
+		value=0
+		level=2
+	}
+	GEO=
+	{
+		value=0
+		level=2
+	}
+	GNA=
+	{
+		value=45
+		level=5
+	}
+	HAM=
+	{
+		value=94
+		level=2
+	}
+	HDA=
+	{
+		value=0
+		level=2
+	}
+	HES=
+	{
+		value=94
+		level=2
+	}
+	HUR=
+	{
+		value=0
+		level=2
+	}
+	ILL=
+	{
+		value=0
+		level=2
+	}
+	IRO=
+	{
+		value=88
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	JNN=
+	{
+		value=0
+		level=2
+	}
+	KAF=
+	{
+		value=-3
+		level=2
+	}
+	KAR=
+	{
+		value=19
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	KIE=
+	{
+		value=0
+		level=2
+	}
+	KIO=
+	{
+		value=0
+		level=2
+	}
+	KLE=
+	{
+		value=76
+		level=2
+	}
+	KMC=
+	{
+		value=0
+		level=2
+	}
+	KNI=
+	{
+		value=0
+		level=2
+	}
+	KON=
+	{
+		value=0
+		level=2
+	}
+	KOR=
+	{
+		value=97
+		level=2
+	}
+	KTS=
+	{
+		value=0
+		level=2
+	}
+	KZH=
+	{
+		value=0
+		level=2
+	}
+	LAU=
+	{
+		value=67
+		level=2
+	}
+	LNA=
+	{
+		value=0
+		level=2
+	}
+	LOM=
+	{
+		value=28
+		level=2
+	}
+	LOR=
+	{
+		value=94
+		level=2
+	}
+	MAG=
+	{
+		value=0
+		level=2
+	}
+	MAH=
+	{
+		value=88
+		level=2
+	}
+	MAL=
+	{
+		value=31
+		level=2
+	}
+	MCA=
+	{
+		value=0
+		level=2
+	}
+	MEC=
+	{
+		value=97
+		level=2
+	}
+	MED=
+	{
+		value=0
+		level=2
+	}
+	MEW=
+	{
+		value=0
+		level=2
+	}
+	MGD=
+	{
+		value=0
+		level=2
+	}
+	MIR=
+	{
+		value=0
+		level=2
+	}
+	MIX=
+	{
+		value=-13
+		level=2
+	}
+	MKA=
+	{
+		value=0
+		level=2
+	}
+	MLC=
+	{
+		value=0
+		level=2
+	}
+	MMI=
+	{
+		value=0
+		level=2
+	}
+	MNA=
+	{
+		value=0
+		level=2
+	}
+	MNG=
+	{
+		value=0
+		level=2
+	}
+	MPC=
+	{
+		value=0
+		level=2
+	}
+	MPH=
+	{
+		value=0
+		level=2
+	}
+	MUN=
+	{
+		value=56
+		level=2
+	}
+	MYR=
+	{
+		value=0
+		level=2
+	}
+	NEP=
+	{
+		value=0
+		level=2
+	}
+	NET=
+	{
+		value=0
+		level=2
+	}
+	NOG=
+	{
+		value=0
+		level=2
+	}
+	NOR=
+	{
+		value=0
+		level=2
+	}
+	NUM=
+	{
+		value=85
+		level=2
+	}
+	NUP=
+	{
+		value=16
+		level=2
+	}
+	OJI=
+	{
+		value=0
+		level=2
+	}
+	OLD=
+	{
+		value=91
+		level=2
+	}
+	ORI=
+	{
+		value=0
+		level=2
+	}
+	ORM=
+	{
+		value=0
+		level=2
+	}
+	OSA=
+	{
+		value=0
+		level=2
+	}
+	OTT=
+	{
+		value=0
+		level=2
+	}
+	PAP=
+	{
+		value=88
+		level=2
+	}
+	PAW=
+	{
+		value=91
+		level=2
+	}
+	PEQ=
+	{
+		value=88
+		level=2
+	}
+	PGS=
+	{
+		value=0
+		level=2
+	}
+	POM=
+	{
+		value=0
+		level=2
+	}
+	POR=
+	{
+		value=10
+		level=2
+	}
+	POT=
+	{
+		value=91
+		level=2
+	}
+	PRO=
+	{
+		value=0
+		level=2
+	}
+	PRU=
+	{
+		value=0
+		level=2
+	}
+	PTE=
+	{
+		value=0
+		level=2
+	}
+	PTG=
+	{
+		value=65
+		level=2
+	}
+	PUE=
+	{
+		value=0
+		level=2
+	}
+	RAJ=
+	{
+		value=0
+		level=2
+	}
+	RUS=
+	{
+		value=4
+		level=2
+	}
+	RYU=
+	{
+		value=0
+		level=2
+	}
+	SAL=
+	{
+		value=91
+		level=2
+	}
+	SAV=
+	{
+		value=89
+		level=2
+	}
+	SER=
+	{
+		value=76
+		level=2
+	}
+	SHA=
+	{
+		value=0
+		level=2
+	}
+	SHO=
+	{
+		value=0
+		level=2
+	}
+	SIE=
+	{
+		value=0
+		level=2
+	}
+	SIL=
+	{
+		value=0
+		level=2
+	}
+	SIO=
+	{
+		value=0
+		level=2
+	}
+	SLV=
+	{
+		value=0
+		level=2
+	}
+	SON=
+	{
+		value=28
+		level=2
+	}
+	SPA=
+	{
+		value=0
+		level=2
+	}
+	SUL=
+	{
+		value=0
+		level=2
+	}
+	SUS=
+	{
+		value=97
+		level=2
+	}
+	SWA=
+	{
+		value=0
+		level=2
+	}
+	SWE=
+	{
+		value=0
+		level=2
+	}
+	SYR=
+	{
+		value=0
+		level=2
+	}
+	TAR=
+	{
+		value=37
+		level=2
+	}
+	TBK=
+	{
+		value=0
+		level=2
+	}
+	TBZ=
+	{
+		value=16
+		level=2
+	}
+	TDO=
+	{
+		value=0
+		level=2
+	}
+	TID=
+	{
+		value=0
+		level=2
+	}
+	TIM=
+	{
+		value=0
+		level=2
+	}
+	TLA=
+	{
+		value=-12
+		level=2
+	}
+	TLX=
+	{
+		value=-12
+		level=2
+	}
+	TNT=
+	{
+		value=0
+		level=2
+	}
+	TOT=
+	{
+		value=85
+		level=2
+	}
+	TPA=
+	{
+		value=94
+		level=2
+	}
+	TPR=
+	{
+		value=-4
+		level=2
+	}
+	TRS=
+	{
+		value=0
+		level=2
+	}
+	TUA=
+	{
+		value=4
+		level=2
+	}
+	TUN=
+	{
+		value=-23
+		level=2
+	}
+	TUR=
+	{
+		value=0
+		level=2
+	}
+	TUS=
+	{
+		value=85
+		level=2
+	}
+	UTS=
+	{
+		value=0
+		level=2
+	}
+	VEN=
+	{
+		value=2
+		level=2
+	}
+	VIJ=
+	{
+		value=0
+		level=2
+	}
+	WBG=
+	{
+		value=52
+		level=2
+	}
+	WCR=
+	{
+		value=76
+		level=2
+	}
+	WIC=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=95
+		level=2
+	}
+	X02=
+	{
+		value=97
+		level=2
+	}
+	X03=
+	{
+		value=76
+		level=2
+	}
+	X04=
+	{
+		value=43
+		level=2
+	}
+	X05=
+	{
+		value=-112
+		level=2
+	}
+	X06=
+	{
+		value=100
+		level=2
+	}
+	X07=
+	{
+		value=31
+		level=2
+	}
+	X08=
+	{
+		value=91
+		level=2
+	}
+	X09=
+	{
+		value=48
+		level=2
+	}
+	X10=
+	{
+		value=0
+		level=2
+	}
+	X12=
+	{
+		value=0
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	YAO=
+	{
+		value=0
+		level=2
+	}
+	YEM=
+	{
+		value=0
+		level=2
+	}
+	ZAP=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="Ejército de Castilla La Vieja"
+	location=390
+	regiment = {
+		name="2nd Ávila Artillery"
+		type=artillery
+		home=483
+	}
+}
+
+army = {
+	name="Guardia Real"
+	location=388
+	regiment = {
+		name="1st Tarragona Infantry"
+		type=infantry
+		home=501
+	}
+	regiment = {
+		name="1st Burgos Infantry"
+		type=infantry
+		home=479
+	}
+	regiment = {
+		name="1st Badajoz Artillery"
+		type=artillery
+		home=484
+	}
+}
+
+army = {
+	name="12th Army"
+	location=390
+	regiment = {
+		name="1st Jaén Infantry"
+		type=infantry
+		home=516
+	}
+	regiment = {
+		name="1st Córdoba Infantry"
+		type=infantry
+		home=510
+	}
+	regiment = {
+		name="1st Madrid Cavalry"
+		type=cavalry
+		home=487
+	}
+	regiment = {
+		name="1st Ávila Artillery"
+		type=artillery
+		home=483
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=504
+	ship = {
+		name="1st La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Brindisi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Oviedo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Aquila Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Gaeta Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Armada Real"
+	location=2746
+	ship = {
+		name="2nd La Coruña Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2729
+	ship = {
+		name="1st Santander Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Santander Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cádiz Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Cartagena Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Flota de Coast of Brittany"
+	location=2729
+	ship = {
+		name="1st Gibraltar Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Flota de Straits of Gibraltar"
+	location=2732
+	ship = {
+		name="1st Bilbao Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2772
+	ship = {
+		name="1st Perpignan Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2744
+	ship = {
+		name="2nd Santander Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Oviedo Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2723
+	ship = {
+		name="1st Balearic Islands Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Oviedo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Canary Islands Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Flota de Cádiz"
+	location=2729
+	ship = {
+		name="2nd Oviedo Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Flota de Antuerpia"
+	location=2737
+	ship = {
+		name="1st La Coruña Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Flota de Flandes"
+	location=2745
+	ship = {
+		name="2nd Santander Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Canary Islands Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cartagena Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd La Coruña Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vigo Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2448
+	regiment = {
+		name="1st Natal Infantry"
+		type=infantry
+		home=2431
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2448
+	ship = {
+		name="3rd São Luís Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2448
+	ship = {
+		name="1st São Luís Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd São Luís Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th São Luís Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2986
+	ship = {
+		name="1st São Luís Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2424
+	ship = {
+		name="4th São Luís Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="1st Army"
+	location=213
+	regiment = {
+		name="1st Charleston Infantry"
+		type=infantry
+		home=205
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=213
+	ship = {
+		name="1st Baltimore Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=213
+	ship = {
+		name="1st Norfolk Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Norfolk Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2954
+	ship = {
+		name="1st Norfolk Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=73
+	regiment = {
+		name="1st Saint Johns Infantry"
+		type=infantry
+		home=74
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=73
+	ship = {
+		name="2nd Fredericton Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2943
+	ship = {
+		name="1st Fredericton Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=73
+	ship = {
+		name="1st Fredericton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Millertown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Millertown Clipper Transport"
+		type=clipper_transport
+	}
+}
+

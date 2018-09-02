@@ -1,0 +1,6 @@
+owner=D_ESFAHAN
+controller=D_ESFAHAN
+add_core=D_ESFAHAN
+add_core=PER
+trade_goods = wool
+life_rating = 35

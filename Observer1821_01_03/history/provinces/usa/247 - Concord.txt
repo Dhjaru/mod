@@ -1,0 +1,6 @@
+owner=ABE
+controller=ABE
+add_core=LEN
+trade_goods = timber
+life_rating = 35
+colonial=2

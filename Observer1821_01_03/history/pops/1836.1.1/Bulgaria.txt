@@ -1,0 +1,617 @@
+808 = {
+	soldiers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=3029
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=6058
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=984
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=257
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=121
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=1272
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=139717
+	}
+
+}
+809 = {
+	soldiers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=3029
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=5083
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=959
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=257
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=121
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=1272
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=139717
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=25
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=975
+	}
+
+}
+810 = {
+	soldiers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=1531
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=5880
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=990
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=184
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=122
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=1286
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=142877
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=5
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=245
+	}
+
+}
+811 = {
+	soldiers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=1551
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=2363
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=494
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=132
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=62
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=652
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=71570
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=10
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=740
+	}
+
+}
+812 = {
+	soldiers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=7333
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=14667
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=2383
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=623
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=293
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=3080
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=338290
+	}
+
+}
+813 = {
+	soldiers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=1551
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=3103
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=504
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=132
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=62
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=652
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=71570
+	}
+
+}
+814 = {
+	soldiers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=1551
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=3103
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=504
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=132
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=62
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=652
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=71570
+	}
+
+}
+815 = {
+	soldiers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=2354
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=3967
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=755
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=200
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=94
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=989
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=108577
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size=10
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size=740
+	}
+
+}
+816 = {
+	soldiers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=2354
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=4707
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=765
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=200
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=94
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=989
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=108577
+	}
+
+}
+817 = {
+	soldiers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=4280
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=8559
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=1391
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=364
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=171
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=1797
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=197415
+	}
+
+}
+818 = {
+	soldiers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=1551
+	}
+
+	artisans=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=3103
+	}
+
+	clergymen=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=504
+	}
+
+	bureaucrats=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=132
+	}
+
+	officers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=62
+	}
+
+	aristocrats=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=652
+	}
+
+	farmers=
+	{
+		culture = bulgarian
+		religion = protestant
+		size=71570
+	}
+
+}

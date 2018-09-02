@@ -1,0 +1,6 @@
+owner=CAB
+controller=CAB
+add_core=CAB
+add_core=MCA
+trade_goods = cattle
+life_rating = 25

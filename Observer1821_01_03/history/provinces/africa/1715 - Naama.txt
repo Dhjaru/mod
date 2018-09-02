@@ -1,0 +1,7 @@
+owner=POR
+controller=POR
+add_core=TLC
+add_core=POR
+add_core=ARA
+trade_goods = wool
+life_rating = 35

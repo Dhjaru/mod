@@ -1,0 +1,8 @@
+owner=DEN
+controller=DEN
+add_core=DEN
+add_core=X13
+add_core=UBD
+add_core=LAT
+trade_goods = grain
+life_rating = 35

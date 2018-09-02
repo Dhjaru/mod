@@ -1,0 +1,6 @@
+owner=TBK
+controller=TBK
+add_core=MRA
+add_core=TBK
+trade_goods = tobacco
+life_rating = 15

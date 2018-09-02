@@ -1,0 +1,6 @@
+owner=MIX
+controller=MIX
+add_core=TLA
+add_core=MIX
+trade_goods = grain
+life_rating = 35

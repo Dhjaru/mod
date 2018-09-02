@@ -1,0 +1,7 @@
+owner=CDL
+controller=CDL
+add_core=UTS
+add_core=CDL
+add_core=TIB
+trade_goods = grain
+life_rating = 32

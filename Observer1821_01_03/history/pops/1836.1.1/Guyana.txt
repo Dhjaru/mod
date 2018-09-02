@@ -1,0 +1,190 @@
+2239 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size=339
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size=1356
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size=220
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size=58
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size=27
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size=285
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size=31611
+	}
+
+}
+2242 = {
+	aristocrats=
+	{
+		culture = amazonian
+		religion = animist
+		size=10
+	}
+
+	clergymen=
+	{
+		culture = amazonian
+		religion = animist
+		size=25
+	}
+
+	artisans=
+	{
+		culture = amazonian
+		religion = animist
+		size=50
+	}
+
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size=15
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size=900
+	}
+
+}
+2243 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size=616
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size=2465
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size=401
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size=62
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size=49
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size=518
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size=57519
+	}
+
+}
+1979 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size=339
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size=1356
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size=220
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size=58
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size=27
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size=285
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size=31611
+	}
+
+}

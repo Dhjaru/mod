@@ -1,0 +1,6 @@
+owner=MAL
+controller=MAL
+add_core=KNG
+add_core=MAL
+trade_goods = grain
+life_rating = 15

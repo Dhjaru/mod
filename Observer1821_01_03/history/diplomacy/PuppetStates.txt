@@ -1,0 +1,96 @@
+vassal=
+{
+	first="PRU"
+	second="SIL"
+	start_date="1604.3.11"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="POR"
+	second="X01"
+	start_date="1508.9.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="SPA"
+	second="GNA"
+	start_date="1604.11.7"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="RUS"
+	second="SYR"
+	start_date="1613.6.22"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="GAZ"
+	second="ARL"
+	start_date="1601.9.27"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="AZT"
+	second="TAR"
+	start_date="1592.12.8"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="AZT"
+	second="TLA"
+	start_date="1603.1.30"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="AZT"
+	second="CMA"
+	start_date="1612.9.18"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="AZT"
+	second="MIX"
+	start_date="1612.9.18"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="AZT"
+	second="TLX"
+	start_date="1612.9.18"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="AZT"
+	second="ZAP"
+	start_date="1613.7.10"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="MEW"
+	second="RAJ"
+	start_date="1616.12.10"
+	end_date="1936.1.1"
+}
+

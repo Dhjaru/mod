@@ -1,0 +1,5 @@
+owner=SON
+controller=SON
+add_core=SON
+trade_goods = tropical_wood
+life_rating = 15

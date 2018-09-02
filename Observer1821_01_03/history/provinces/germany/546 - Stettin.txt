@@ -1,0 +1,14 @@
+owner=POM
+controller=POM
+add_core=POM
+add_core=BRD
+add_core=GER
+add_core=HRE
+trade_goods = fish
+life_rating = 40
+state_building=
+{
+	level=1
+	building = explosives_factory
+	upgrade = yes
+}

@@ -1,0 +1,211 @@
+2344 = {
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size=7299
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=1367
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=5470
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=889
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=232
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=109
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=1149
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size=120228
+	}
+
+}
+2345 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=3463
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=563
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=147
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=69
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=727
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size=80563
+	}
+
+}
+2346 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = catholic
+		size=535
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = catholic
+		size=2140
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = catholic
+		size=348
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = catholic
+		size=91
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = catholic
+		size=43
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = catholic
+		size=449
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = catholic
+		size=49895
+	}
+
+}
+2347 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=1771
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=7085
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=1151
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=301
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=142
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=1488
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size=165175
+	}
+
+}

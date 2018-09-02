@@ -1,0 +1,109 @@
+2237 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=126284
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=1389
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size=5557
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size=903
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size=236
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=111
+	}
+
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size=1167
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=3266
+	}
+
+}
+2238 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=135208
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=1389
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size=5557
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size=903
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size=236
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=111
+	}
+
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size=1167
+	}
+
+}

@@ -1,0 +1,5 @@
+owner=TOT
+controller=TOT
+add_core=TOT
+trade_goods = fish
+life_rating = 35

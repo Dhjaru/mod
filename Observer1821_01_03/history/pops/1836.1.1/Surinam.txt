@@ -1,0 +1,102 @@
+2240 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size=691
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size=2766
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size=449
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size=118
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size=55
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size=581
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size=64478
+	}
+
+}
+2245 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size=616
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size=2465
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size=401
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size=105
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size=49
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size=518
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size=57476
+	}
+
+}

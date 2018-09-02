@@ -1,0 +1,5 @@
+owner=ADE
+controller=ADE
+add_core=ADE
+trade_goods = cattle
+life_rating = 30

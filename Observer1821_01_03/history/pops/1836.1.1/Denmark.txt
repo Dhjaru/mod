@@ -1,0 +1,538 @@
+253 = {
+	soldiers=
+	{
+		culture = norwegian
+		religion = catholic
+		size=1290
+	}
+
+	artisans=
+	{
+		culture = norwegian
+		religion = catholic
+		size=5161
+	}
+
+	clergymen=
+	{
+		culture = norwegian
+		religion = catholic
+		size=839
+	}
+
+	bureaucrats=
+	{
+		culture = norwegian
+		religion = catholic
+		size=129
+	}
+
+	officers=
+	{
+		culture = norwegian
+		religion = catholic
+		size=116
+	}
+
+	aristocrats=
+	{
+		culture = norwegian
+		religion = catholic
+		size=1084
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = catholic
+		size=120396
+	}
+
+}
+366 = {
+	soldiers=
+	{
+		culture = danish
+		religion = protestant
+		size=4902
+	}
+
+	craftsmen=
+	{
+		culture = danish
+		religion = protestant
+		size=2639
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size=9803
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = protestant
+		size=1593
+	}
+
+	clerks=
+	{
+		culture = danish
+		religion = protestant
+		size=181
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = protestant
+		size=417
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = protestant
+		size=221
+	}
+
+	capitalists=
+	{
+		culture = danish
+		religion = protestant
+		size=42
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size=2059
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = protestant
+		size=223223
+	}
+
+}
+367 = {
+	soldiers=
+	{
+		culture = danish
+		religion = protestant
+		size=7233
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size=10810
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = protestant
+		size=1757
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = protestant
+		size=459
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = protestant
+		size=243
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size=2270
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = protestant
+		size=247477
+	}
+
+}
+368 = {
+	soldiers=
+	{
+		culture = danish
+		religion = protestant
+		size=1835
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size=3670
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = protestant
+		size=596
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = protestant
+		size=156
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = protestant
+		size=83
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size=771
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = protestant
+		size=84643
+	}
+
+}
+2557 = {
+	soldiers=
+	{
+		culture = danish
+		religion = protestant
+		size=2900
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size=5800
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = protestant
+		size=942
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = protestant
+		size=246
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = protestant
+		size=130
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size=1218
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = protestant
+		size=133759
+	}
+
+}
+370 = {
+	soldiers=
+	{
+		culture = danish
+		religion = protestant
+		size=2432
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size=4864
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = protestant
+		size=790
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = protestant
+		size=207
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = protestant
+		size=109
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size=1021
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = protestant
+		size=112174
+	}
+
+}
+371 = {
+	soldiers=
+	{
+		culture = danish
+		religion = protestant
+		size=2432
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size=4864
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = protestant
+		size=790
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = protestant
+		size=207
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = protestant
+		size=109
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size=1021
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = protestant
+		size=112174
+	}
+
+}
+372 = {
+	soldiers=
+	{
+		culture = danish
+		religion = protestant
+		size=17259
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size=33418
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = protestant
+		size=5609
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = protestant
+		size=1467
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = protestant
+		size=777
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size=7249
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = protestant
+		size=796077
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=1100
+	}
+
+}
+373 = {
+	soldiers=
+	{
+		culture = danish
+		religion = protestant
+		size=6206
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size=12413
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = protestant
+		size=2017
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = protestant
+		size=528
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = protestant
+		size=279
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size=2607
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = protestant
+		size=286268
+	}
+
+}
+374 = {
+	soldiers=
+	{
+		culture = danish
+		religion = protestant
+		size=1350
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size=2701
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = protestant
+		size=439
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = protestant
+		size=115
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = protestant
+		size=61
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size=567
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = protestant
+		size=62289
+	}
+
+}

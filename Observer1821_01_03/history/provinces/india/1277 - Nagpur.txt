@@ -1,0 +1,5 @@
+owner=AND
+controller=AND
+add_core=AND
+trade_goods = dye
+life_rating = 32

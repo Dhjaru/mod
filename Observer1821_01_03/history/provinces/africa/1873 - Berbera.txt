@@ -1,0 +1,7 @@
+owner=ADE
+controller=ADE
+add_core=ADE
+add_core=ADA
+add_core=JIM
+trade_goods = cotton
+life_rating = 15

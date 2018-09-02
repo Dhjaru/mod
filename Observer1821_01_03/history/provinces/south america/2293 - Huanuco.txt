@@ -1,0 +1,6 @@
+owner=CHM
+controller=CHM
+add_core=CHM
+add_core=CSU
+trade_goods = wool
+life_rating = 30

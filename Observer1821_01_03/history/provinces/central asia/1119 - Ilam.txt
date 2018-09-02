@@ -1,0 +1,6 @@
+owner=X12
+controller=X12
+add_core=X12
+add_core=BHT
+trade_goods = cotton
+life_rating = 35

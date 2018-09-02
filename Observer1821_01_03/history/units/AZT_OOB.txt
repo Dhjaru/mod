@@ -1,0 +1,111 @@
+#Sphere of Influence
+
+	APA=
+	{
+		value=0
+		level=2
+	}
+	AZT=
+	{
+		value=0
+		level=2
+	}
+	CMA=
+	{
+		value=-56
+		level=5
+	}
+	COC=
+	{
+		value=73
+		level=2
+	}
+	GNA=
+	{
+		value=-12
+		level=2
+	}
+	KIO=
+	{
+		value=0
+		level=2
+	}
+	MIX=
+	{
+		value=38
+		level=5
+	}
+	POR=
+	{
+		value=13
+		level=2
+	}
+	PUE=
+	{
+		value=20
+		level=2
+	}
+	SPA=
+	{
+		value=-10
+		level=2
+	}
+	TAR=
+	{
+		value=-95
+		level=5
+	}
+	TLA=
+	{
+		value=-47
+		level=5
+	}
+	TLX=
+	{
+		value=7
+		level=5
+	}
+	TOT=
+	{
+		value=-82
+		level=2
+	}
+	X02=
+	{
+		value=-11
+		level=2
+	}
+	X03=
+	{
+		value=-49
+		level=2
+	}
+	X06=
+	{
+		value=-11
+		level=2
+	}
+	X08=
+	{
+		value=-11
+		level=2
+	}
+	ZAP=
+	{
+		value=40
+		level=5
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="4th Army"
+	location=2172
+	regiment = {
+		name="1st Mexico City Infantry"
+		type=infantry
+		home=2172
+	}
+}
+

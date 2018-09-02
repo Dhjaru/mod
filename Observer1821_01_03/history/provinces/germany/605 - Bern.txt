@@ -1,0 +1,8 @@
+owner=SAV
+controller=SAV
+add_core=SWI
+add_core=SAV
+add_core=HRE
+trade_goods = iron
+life_rating = 40
+fort = 1

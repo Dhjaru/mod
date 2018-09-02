@@ -1,0 +1,48 @@
+guarantee=
+{
+	first="TUR"
+	second="DUL"
+	start_date="1560.9.21"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="TUR"
+	second="TBZ"
+	start_date="1602.3.28"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="TUR"
+	second="KAR"
+	start_date="1619.10.14"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="GEO"
+	second="BTL"
+	start_date="1609.2.16"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="RUS"
+	second="SER"
+	start_date="1458.11.6"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="KAF"
+	second="ETH"
+	start_date="1619.9.30"
+	end_date="1936.1.1"
+}
+

@@ -1,0 +1,280 @@
+#Sphere of Influence
+
+	ADE=
+	{
+		value=0
+		level=2
+	}
+	ANZ=
+	{
+		value=0
+		level=2
+	}
+	BTL=
+	{
+		value=0
+		level=2
+	}
+	BUG=
+	{
+		value=110
+		level=2
+	}
+	CKW=
+	{
+		value=112
+		level=2
+	}
+	DAR=
+	{
+		value=0
+		level=2
+	}
+	DLH=
+	{
+		value=0
+		level=2
+	}
+	DUL=
+	{
+		value=0
+		level=2
+	}
+	EGY=
+	{
+		value=0
+		level=2
+	}
+	ETH=
+	{
+		value=0
+		level=2
+	}
+	FRA=
+	{
+		value=0
+		level=2
+	}
+	GEO=
+	{
+		value=0
+		level=2
+	}
+	JNN=
+	{
+		value=0
+		level=2
+	}
+	KAF=
+	{
+		value=0
+		level=2
+	}
+	KAR=
+	{
+		value=0
+		level=2
+	}
+	KIO=
+	{
+		value=0
+		level=2
+	}
+	KON=
+	{
+		value=0
+		level=2
+	}
+	KTS=
+	{
+		value=0
+		level=2
+	}
+	LND=
+	{
+		value=59
+		level=3
+	}
+	MAL=
+	{
+		value=0
+		level=2
+	}
+	MED=
+	{
+		value=0
+		level=2
+	}
+	MEW=
+	{
+		value=0
+		level=2
+	}
+	MIR=
+	{
+		value=0
+		level=2
+	}
+	MKA=
+	{
+		value=0
+		level=2
+	}
+	NUP=
+	{
+		value=0
+		level=2
+	}
+	ORM=
+	{
+		value=0
+		level=2
+	}
+	POR=
+	{
+		value=0
+		level=2
+	}
+	PTE=
+	{
+		value=0
+		level=2
+	}
+	SON=
+	{
+		value=0
+		level=2
+	}
+	SWA=
+	{
+		value=0
+		level=2
+	}
+	SYR=
+	{
+		value=0
+		level=2
+	}
+	TBK=
+	{
+		value=0
+		level=2
+	}
+	TIM=
+	{
+		value=0
+		level=2
+	}
+	TPR=
+	{
+		value=0
+		level=2
+	}
+	UBH=
+	{
+		value=-42
+		level=2
+	}
+	VIJ=
+	{
+		value=0
+		level=2
+	}
+	X10=
+	{
+		value=0
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	YAO=
+	{
+		value=0
+		level=2
+	}
+	YEM=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="2nd Army"
+	location=1990
+	regiment = {
+		name="1st Kinshasa Infantry"
+		type=infantry
+		home=1982
+	}
+	regiment = {
+		name="1st Kinshasa Artillery"
+		type=artillery
+		home=1982
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2009
+	regiment = {
+		name="1st Nkuna Infantry"
+		type=infantry
+		home=1977
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1994
+	regiment = {
+		name="1st Kumbana Cavalry"
+		type=cavalry
+		home=1985
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2917
+	ship = {
+		name="1st Loango Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2001
+	ship = {
+		name="1st Luanda Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2001
+	ship = {
+		name="1st Loango Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mbanza Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Loango Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mbanza Clipper Transport"
+		type=clipper_transport
+	}
+}
+

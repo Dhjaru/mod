@@ -1,0 +1,101 @@
+#Sphere of Influence
+
+	APA=
+	{
+		value=0
+		level=2
+	}
+	AZT=
+	{
+		value=135
+		level=2
+	}
+	CMA=
+	{
+		value=0
+		level=2
+	}
+	COC=
+	{
+		value=53
+		level=2
+	}
+	GNA=
+	{
+		value=-12
+		level=2
+	}
+	KIO=
+	{
+		value=0
+		level=2
+	}
+	MIX=
+	{
+		value=-1
+		level=2
+	}
+	SPA=
+	{
+		value=-10
+		level=2
+	}
+	TAR=
+	{
+		value=-7
+		level=2
+	}
+	TLA=
+	{
+		value=-35
+		level=2
+	}
+	TLX=
+	{
+		value=21
+		level=2
+	}
+	TOT=
+	{
+		value=-25
+		level=2
+	}
+	X02=
+	{
+		value=-11
+		level=2
+	}
+	X03=
+	{
+		value=-11
+		level=2
+	}
+	X06=
+	{
+		value=-11
+		level=2
+	}
+	X08=
+	{
+		value=-11
+		level=2
+	}
+	ZAP=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="1st Army"
+	location=2169
+	regiment = {
+		name="1st Colima Infantry"
+		type=infantry
+		home=2169
+	}
+}
+

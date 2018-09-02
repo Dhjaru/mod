@@ -1,0 +1,7 @@
+owner=GAZ
+controller=GAZ
+add_core=ARL
+add_core=GAZ
+add_core=AZB
+trade_goods = timber
+life_rating = 35

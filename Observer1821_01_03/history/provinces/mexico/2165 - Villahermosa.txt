@@ -1,0 +1,6 @@
+owner=COC
+controller=COC
+add_core=ITZ
+add_core=COC
+trade_goods = coffee
+life_rating = 30

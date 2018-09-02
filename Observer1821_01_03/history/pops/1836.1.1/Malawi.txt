@@ -1,0 +1,116 @@
+2066 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = shamanism
+		size=5558
+	}
+
+	soldiers=
+	{
+		culture = sena
+		religion = shamanism
+		size=1926
+	}
+
+	artisans=
+	{
+		culture = sena
+		religion = shamanism
+		size=3852
+	}
+
+	clergymen=
+	{
+		culture = sena
+		religion = shamanism
+		size=626
+	}
+
+	bureaucrats=
+	{
+		culture = sena
+		religion = shamanism
+		size=48
+	}
+
+	officers=
+	{
+		culture = sena
+		religion = shamanism
+		size=77
+	}
+
+	aristocrats=
+	{
+		culture = sena
+		religion = shamanism
+		size=809
+	}
+
+	farmers=
+	{
+		culture = sena
+		religion = shamanism
+		size=83412
+	}
+
+}
+2067 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = shamanism
+		size=7411
+	}
+
+	soldiers=
+	{
+		culture = sena
+		religion = shamanism
+		size=4133
+	}
+
+	artisans=
+	{
+		culture = sena
+		religion = shamanism
+		size=2950
+	}
+
+	clergymen=
+	{
+		culture = sena
+		religion = shamanism
+		size=479
+	}
+
+	bureaucrats=
+	{
+		culture = sena
+		religion = shamanism
+		size=37
+	}
+
+	officers=
+	{
+		culture = sena
+		religion = shamanism
+		size=59
+	}
+
+	aristocrats=
+	{
+		culture = sena
+		religion = shamanism
+		size=619
+	}
+
+	farmers=
+	{
+		culture = sena
+		religion = shamanism
+		size=58055
+	}
+
+}

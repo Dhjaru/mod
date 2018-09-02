@@ -1,0 +1,6 @@
+owner=TDO
+controller=TDO
+add_core=TDO
+add_core=PHI
+trade_goods = fish
+life_rating = 30

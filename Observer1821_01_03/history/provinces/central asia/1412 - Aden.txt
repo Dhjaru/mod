@@ -1,0 +1,8 @@
+owner=EGY
+controller=EGY
+add_core=ADE
+add_core=YEM
+add_core=EGY
+add_core=ARA
+trade_goods = fish
+life_rating = 35

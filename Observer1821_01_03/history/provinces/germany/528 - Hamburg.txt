@@ -1,0 +1,13 @@
+owner=HAM
+controller=HAM
+add_core=HAM
+add_core=GER
+add_core=HRE
+trade_goods = fruit
+life_rating = 40
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

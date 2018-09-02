@@ -1,0 +1,109 @@
+2219 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=77990
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=918
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size=3670
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size=596
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size=156
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=73
+	}
+
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size=771
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=7580
+	}
+
+}
+2220 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=177113
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=1771
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size=7085
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size=1151
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size=301
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = catholic
+		size=142
+	}
+
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size=1488
+	}
+
+}

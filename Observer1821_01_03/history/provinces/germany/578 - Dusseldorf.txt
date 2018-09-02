@@ -1,0 +1,14 @@
+owner=KLE
+controller=KLE
+add_core=KLE
+add_core=GER
+add_core=HRE
+trade_goods = coal
+life_rating = 40
+railroad = 1
+state_building=
+{
+	level=1
+	building = small_arms_factory
+	upgrade = yes
+}

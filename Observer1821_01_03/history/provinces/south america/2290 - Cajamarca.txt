@@ -1,0 +1,5 @@
+owner=CJA
+controller=CJA
+add_core=CJA
+trade_goods = wool
+life_rating = 30

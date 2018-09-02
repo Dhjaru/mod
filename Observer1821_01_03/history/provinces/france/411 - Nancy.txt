@@ -1,0 +1,13 @@
+owner=LOR
+controller=LOR
+add_core=LOR
+add_core=FRA
+add_core=HRE
+trade_goods = dye
+life_rating = 30
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}

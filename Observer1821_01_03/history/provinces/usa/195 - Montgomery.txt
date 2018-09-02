@@ -1,0 +1,6 @@
+owner=CHO
+controller=CHO
+add_core=CRK
+add_core=CHO
+trade_goods = cotton
+life_rating = 35

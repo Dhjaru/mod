@@ -1,0 +1,123 @@
+1773 = {
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size=10
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size=15
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size=50
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size=25
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size=900
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = sunni
+		size=25
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = sunni
+		size=50
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = sunni
+		size=100
+	}
+
+	soldiers=
+	{
+		culture = berber
+		religion = sunni
+		size=25
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = sunni
+		size=1800
+	}
+
+}
+1774 = {
+	soldiers=
+	{
+		culture = maures
+		religion = sunni
+		size=155
+	}
+
+	artisans=
+	{
+		culture = maures
+		religion = sunni
+		size=622
+	}
+
+	clergymen=
+	{
+		culture = maures
+		religion = sunni
+		size=101
+	}
+
+	bureaucrats=
+	{
+		culture = maures
+		religion = sunni
+		size=16
+	}
+
+	officers=
+	{
+		culture = maures
+		religion = sunni
+		size=12
+	}
+
+	aristocrats=
+	{
+		culture = maures
+		religion = sunni
+		size=131
+	}
+
+	farmers=
+	{
+		culture = maures
+		religion = sunni
+		size=14501
+	}
+
+}
